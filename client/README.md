@@ -1,4 +1,3 @@
-## Simple Chat App made with NextJS, NodeJS and Socket.io for Learning Purpose
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
