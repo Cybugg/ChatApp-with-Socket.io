@@ -24,7 +24,7 @@
 ## 🧐 About <a name = "about"></a>
 
 
-### iPhone 15 Website Clone using NextJS
+### Simple Chat Application
 
 This project is a simple chat application built with NextJS and Socket.io just to demonstrate the use of the framework built on websocket.
 
