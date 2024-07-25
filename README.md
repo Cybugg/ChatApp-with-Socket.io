@@ -26,7 +26,12 @@
 
 ### iPhone 15 Website Clone using NextJS
 
-This project is a simple chat application built with NextJS and Socket.io just to demonstrate the use of the framework built on websocket
+This project is a simple chat application built with NextJS and Socket.io just to demonstrate the use of the framework built on websocket.
+
+### Features
+- **Real-time connection**: You can send message in real time .
+- **Room**: You can join a room and send message peculiar to only that room.
+
 
 
 ### Technologies Used
