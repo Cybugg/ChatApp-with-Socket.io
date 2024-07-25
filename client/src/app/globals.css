@@ -45,7 +45,7 @@ body {
     radial-gradient(100% 100% at var(--_p) 0,#00000000 99%,#000 102%) 
       var(--_p) 100%/var(--t) var(--t) no-repeat,
     linear-gradient(#000 0 0) padding-box;
-  background: linear-gradient(135deg,#359135,#2aacf7) border-box;
+  background: linear-gradient(135deg,#359135,#2d91ca) border-box;
   color: #fff;
 }
 .left {
