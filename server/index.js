@@ -7,5 +7,9 @@ const io = new Server(process.env.PORT||8080,{cors:{
 console.log("Running ...")
 
 io.on("connection", (socket)=>{
-    console.log("A user is connected...")
+    console.log("A user is connected...");
+    socket.on("message",(message,roomName)=>{
+        console.log(message,roomName);
+        io.emit("message", message)
+    })
 })
